@@ -1,5 +1,5 @@
 {
-	"name": "simplyadmire/composer-plugins",
+	"name": "konafets/composer-plugins",
 	"type": "composer-plugin",
 	"description": "Composer plugin for installing PHP_CodeSniffer standards",
 	"keywords": ["PHP_CodeSniffer", "phpcs", "standards", "TYPO3", "TYPO3 Flow", "TYPO3 CMS", "TYPO3 Neos"],
